@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/123456/CLionProjects/untitled3/C++ prime 19 chapter/Token.h
+iostream
+-
+
+/mnt/c/Users/123456/CLionProjects/untitled3/C++ prime 19 chapter/main.cpp
+iostream
+-
+Token.h
+/mnt/c/Users/123456/CLionProjects/untitled3/C++ prime 19 chapter/Token.h
+

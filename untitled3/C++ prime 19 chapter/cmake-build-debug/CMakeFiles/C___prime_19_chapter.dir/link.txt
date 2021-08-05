@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/C___prime_19_chapter.dir/main.cpp.o CMakeFiles/C___prime_19_chapter.dir/test.cpp.o CMakeFiles/C___prime_19_chapter.dir/Token.cpp.o CMakeFiles/C___prime_19_chapter.dir/Sales_data.cpp.o CMakeFiles/C___prime_19_chapter.dir/isbn_mismatch.cpp.o  -o C___prime_19_chapter 

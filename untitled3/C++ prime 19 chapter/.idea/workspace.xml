@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="C___prime_19_chapter" targetName="C___prime_19_chapter" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87d521e1-5a38-4c19-a8e7-943f4a12dbd2" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C++ prime 17 标准库特殊设施/.idea/C++ prime 17 标准库特殊设施.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++ prime 17 标准库特殊设施/Quiz.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++ prime 17 标准库特殊设施/line_offset_count.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++ prime 17 标准库特殊设施/line_offset_count.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C++ prime 17 标准库特殊设施/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stm32_work_tool/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/.idea/Work_Stm32_tools.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/CRC.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/Print_GPIO.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/Print_GPIO.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/TEST.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/count.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/count.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/ini.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Work_Stm32_tools/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c++ prime 15 面向对象设计/.idea/c++ prime 15 面向对象设计.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sales_data.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sales_data.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Token.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Token.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___prime_19_chapter.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___prime_19_chapter.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___prime_19_chapter.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___prime_19_chapter.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___prime_19_chapter.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___prime_19_chapter.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___prime_19_chapter.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___prime_19_chapter.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C___prime_19_chapter.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/C___prime_19_chapter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/C___prime_19_chapter.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isbn_mismatch.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isbn_mismatch.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../文本查询程序2.0/.idea/文本查询程序2.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++ prime 16 模板与泛型编程/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ prime 16 模板与泛型编程/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++ prime 16 模板与泛型编程/delete.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ prime 16 模板与泛型编程/delete.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../C++ prime 16 模板与泛型编程/my_Vec.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../C++ prime 16 模板与泛型编程/my_Vec.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../text" beforeDir="false" afterPath="$PROJECT_DIR$/../../text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../untitled1/.idea/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../untitled1/.idea/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1uFIkqVpMWAJtdcHPFaKbmpKKyQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="C___prime_19_chapter" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C___prime_19_chapter" TARGET_NAME="C___prime_19_chapter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C___prime_19_chapter" RUN_TARGET_NAME="C___prime_19_chapter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87d521e1-5a38-4c19-a8e7-943f4a12dbd2" name="默认更改列表" comment="" />
+      <created>1624255055810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624255055810</updated>
+      <workItem from="1624255058178" duration="3268000" />
+      <workItem from="1624280357916" duration="4874000" />
+      <workItem from="1624499279606" duration="5398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624288906190">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1624288906190" />
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1624291822456">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1624291822456" />
+    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1624291822456">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1624291822456" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1624291822456">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1624291822456" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1624291822456">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1624291822456" />
+  </component>
+</project>

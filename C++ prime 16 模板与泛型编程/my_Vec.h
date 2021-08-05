@@ -16,7 +16,9 @@ public:
     my_Vec() : element(nullptr), first_free(nullptr), cap(nullptr) { }
     my_Vec(std::initializer_list<T> li);
     my_Vec(const my_Vec<T> &tem);
+    my_Vec(my_Vec<T> &&tem) noexcept;  /* 多出来的构造函数要加noexcept */
     my_Vec<T>& operator=(const my_Vec<T>& tem);
+    my_Vec<T>& operator=(my_Vec<T> &&tem) noexcept;
     ~my_Vec() { free(); }
 
     T& operator[](std::size_t i);
@@ -25,6 +27,11 @@ public:
     std::size_t capcity() const { return cap - element; }
     T* begin() const { return element; }
     T* end() const { return first_free; }
+
+    /* 可以接受不同类型和数量的构造参数 例如emplace_back("si") 或 emplace_back(string(10, 'c')) */
+    template<class... Args>
+    void emplace_back(Args&&... args);
+
     void push_back(const T &t);
     void pop_back();
     void reverse(std::size_t newSize);
@@ -179,6 +186,54 @@ T &my_Vec<T>::operator[](std::size_t i) {
 template<typename T>
 const T &my_Vec<T>::operator[](std::size_t i) const {
     return *(element + i);
+}
+
+template<typename T>
+my_Vec<T>::my_Vec(my_Vec<T> &&tem) noexcept
+{
+    std::cout << "移动拷贝构造 ！" << std::endl;
+    auto newdata = alloc.allocate(tem.capcity());
+    auto begin = newdata;
+    auto old = tem.begin();
+    std::size_t i;
+    std::size_t s = tem.size();
+
+    for(i = 0; i < s; ++i)
+    {
+        alloc.construct(begin++, std::move(*old++));
+    }
+
+    element = newdata;
+    first_free = begin;
+    cap = element + tem.capcity();
+}
+
+template<typename T>
+my_Vec<T> &my_Vec<T>::operator=(my_Vec<T> &&tem) noexcept {
+    std::cout << "移动拷贝赋值 ！" << std::endl;
+    auto newdata = alloc.allocate(tem.capcity());
+    auto begin = newdata;
+    auto old = tem.begin();
+    std::size_t i;
+    std::size_t s = size();
+
+    for(i = 0; i < s; ++i)
+    {
+        alloc.construct(begin++, std::move(*old++));
+    }
+
+    free();
+
+    element = newdata;
+    first_free = begin;
+    cap = element + tem.capcity();
+}
+
+template<typename T>
+template<class... Args>
+inline void my_Vec<T>::emplace_back(Args&&... args) {
+    check();
+    alloc.construct(first_free++, std::forward<Args>(args)...);  //调用移动构造函数
 }
 
 

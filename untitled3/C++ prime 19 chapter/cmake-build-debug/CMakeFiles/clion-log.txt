@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/123456/CLionProjects/untitled3/C++ prime 19 chapter"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/123456/CLionProjects/untitled3/C++ prime 19 chapter/cmake-build-debug
